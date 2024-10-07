@@ -1,0 +1,23 @@
+.main {
+    min-height: 100vh;
+    padding: 1rem 0;
+}
+.Quizz-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ height: 100vh; /* Full viewport height */
+    /* border: 1px  solid red; */
+    background-color: antiquewhite;
+}
+#Quizz{
+    border: 3px  solid black;
+    background-color: aqua;
+}
+
+#submitBtn{
+    background-color:yellowgreen;
+}
+.reload-button{
+    background-color: yellowgreen;
+}
